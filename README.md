@@ -19,11 +19,10 @@ This project is a QR code generator built with Streamlit, designed to create Tex
 - Python 3.10
 - Streamlit
 
-## Usage
+## Demo
 
-1. Enter your contact details in the provided fields.
-2. Click “Generate QR Code” to create your VCard QR code.
-3. Download and share your QR code.
+Link: [Generate Wifi QR Code app](https://generate-wifi-qrcode.streamlit.app/)
+
 
 ## Contributing
 
