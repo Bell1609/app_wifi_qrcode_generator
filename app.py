@@ -18,7 +18,7 @@ st.subheader("Choose the type, fill in your details, and click 'Generate QRCode'
 
 footer = """<style>
 a:link , a:visited{
-color: black;
+color: white;
 background-color: transparent;
 text-decoration: underline;
 }
@@ -32,13 +32,13 @@ position: fixed;
 left: 0;
 bottom: 0;
 width: 100%;
-background-color: white;
-color: black;
+background-color: transparent;
+color: white;
 text-align: center;
 }
 </style>
 <div class="footer">
-<p>Developed with ❤ by <a style='display: block; color: black; text-align: center;' href="http://www.linkedin.com/in/tranquocnam/" target="_blank">Bell Tran</a></p>
+<p>Developed with ❤ by <a style='display: block; color: white;; text-align: center;' href="http://www.linkedin.com/in/tranquocnam/" target="_blank">Bell Tran</a></p>
 </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
