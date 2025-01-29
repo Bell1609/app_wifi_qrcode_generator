@@ -1,6 +1,6 @@
-# QR Code Generator with Streamlit
+# QR Code Generator App
 
-This project is a QR code generator built with Streamlit, designed to create Text to QR Code, VCards embedded in QR codes. It allows users to input their contact information and generate a personalized QR code for easy sharing.
+This project is a QR code generator built with Streamlit.
 
 ## Features
 
